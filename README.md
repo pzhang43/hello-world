@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Starting off a journey to learning web development!
